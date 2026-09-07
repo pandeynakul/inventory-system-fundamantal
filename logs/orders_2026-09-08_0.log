@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-09-07T21:45:50.249710Z</date>
+  <millis>1788817550249</millis>
+  <nanos>710000</nanos>
+  <sequence>0</sequence>
+  <logger>com.basic.inventorysystemfundamantal.service.PlaceOrderService</logger>
+  <level>INFO</level>
+  <class>com.basic.inventorysystemfundamantal.service.PlaceOrderService</class>
+  <method>orderPlace</method>
+  <thread>1</thread>
+  <message>Order successful: 1 x mobile | Remaining: 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-09-07T22:21:52.320531900Z</date>
+  <millis>1788819712320</millis>
+  <nanos>531900</nanos>
+  <sequence>0</sequence>
+  <logger>com.basic.inventorysystemfundamantal.service.PlaceOrderService</logger>
+  <level>INFO</level>
+  <class>com.basic.inventorysystemfundamantal.service.PlaceOrderService</class>
+  <method>orderPlace</method>
+  <thread>1</thread>
+  <message>Order successful: 1 x mobile | Remaining: 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-09-07T22:28:38.540375200Z</date>
+  <millis>1788820118540</millis>
+  <nanos>375200</nanos>
+  <sequence>0</sequence>
+  <logger>com.basic.inventorysystemfundamantal.service.PlaceOrderService</logger>
+  <level>INFO</level>
+  <class>com.basic.inventorysystemfundamantal.service.PlaceOrderService</class>
+  <method>orderPlace</method>
+  <thread>1</thread>
+  <message>Order successful: 1 x mobile | Remaining: 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-09-07T22:30:07.918788400Z</date>
+  <millis>1788820207918</millis>
+  <nanos>788400</nanos>
+  <sequence>0</sequence>
+  <logger>com.basic.inventorysystemfundamantal.service.PlaceOrderService</logger>
+  <level>INFO</level>
+  <class>com.basic.inventorysystemfundamantal.service.PlaceOrderService</class>
+  <method>orderPlace</method>
+  <thread>1</thread>
+  <message>Order successful: 1 x mobile | Remaining: 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-09-07T22:34:25.568726600Z</date>
+  <millis>1788820465568</millis>
+  <nanos>726600</nanos>
+  <sequence>0</sequence>
+  <logger>com.basic.inventorysystemfundamantal.service.PlaceOrderService</logger>
+  <level>INFO</level>
+  <class>com.basic.inventorysystemfundamantal.service.PlaceOrderService</class>
+  <method>orderPlace</method>
+  <thread>1</thread>
+  <message>Order successful: 1 x mobile | Remaining: 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-09-07T22:36:46.839128100Z</date>
+  <millis>1788820606839</millis>
+  <nanos>128100</nanos>
+  <sequence>0</sequence>
+  <logger>com.basic.inventorysystemfundamantal.service.PlaceOrderService</logger>
+  <level>INFO</level>
+  <class>com.basic.inventorysystemfundamantal.service.PlaceOrderService</class>
+  <method>orderPlace</method>
+  <thread>1</thread>
+  <message>Order successful: 1 x mobile | Remaining: 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-09-07T22:38:01.093875800Z</date>
+  <millis>1788820681093</millis>
+  <nanos>875800</nanos>
+  <sequence>0</sequence>
+  <logger>com.basic.inventorysystemfundamantal.service.PlaceOrderService</logger>
+  <level>INFO</level>
+  <class>com.basic.inventorysystemfundamantal.service.PlaceOrderService</class>
+  <method>orderPlace</method>
+  <thread>1</thread>
+  <message>Order successful: 1 x mobile | Remaining: 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-09-07T22:40:04.807871500Z</date>
+  <millis>1788820804807</millis>
+  <nanos>871500</nanos>
+  <sequence>0</sequence>
+  <logger>com.basic.inventorysystemfundamantal.service.PlaceOrderService</logger>
+  <level>INFO</level>
+  <class>com.basic.inventorysystemfundamantal.service.PlaceOrderService</class>
+  <method>orderPlace</method>
+  <thread>1</thread>
+  <message>Order successful: 1 x mobile | Remaining: 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-09-07T22:42:47.923656100Z</date>
+  <millis>1788820967923</millis>
+  <nanos>656100</nanos>
+  <sequence>0</sequence>
+  <logger>com.basic.inventorysystemfundamantal.service.PlaceOrderService</logger>
+  <level>INFO</level>
+  <class>com.basic.inventorysystemfundamantal.service.PlaceOrderService</class>
+  <method>orderPlace</method>
+  <thread>1</thread>
+  <message>Order successful: 1 x mobile | Remaining: 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-09-07T22:43:13.869422100Z</date>
+  <millis>1788820993869</millis>
+  <nanos>422100</nanos>
+  <sequence>0</sequence>
+  <logger>com.basic.inventorysystemfundamantal.service.PlaceOrderService</logger>
+  <level>INFO</level>
+  <class>com.basic.inventorysystemfundamantal.service.PlaceOrderService</class>
+  <method>orderPlace</method>
+  <thread>1</thread>
+  <message>Order successful: 1 x mobile | Remaining: 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-09-07T22:44:56.558149400Z</date>
+  <millis>1788821096558</millis>
+  <nanos>149400</nanos>
+  <sequence>0</sequence>
+  <logger>com.basic.inventorysystemfundamantal.service.PlaceOrderService</logger>
+  <level>INFO</level>
+  <class>com.basic.inventorysystemfundamantal.service.PlaceOrderService</class>
+  <method>orderPlace</method>
+  <thread>1</thread>
+  <message>Order successful: 1 x mobile | Remaining: 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-09-07T22:46:13.552669500Z</date>
+  <millis>1788821173552</millis>
+  <nanos>669500</nanos>
+  <sequence>0</sequence>
+  <logger>com.basic.inventorysystemfundamantal.service.PlaceOrderService</logger>
+  <level>INFO</level>
+  <class>com.basic.inventorysystemfundamantal.service.PlaceOrderService</class>
+  <method>orderPlace</method>
+  <thread>1</thread>
+  <message>Order successful: 1 x mobile | Remaining: 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-09-07T22:48:19.869328Z</date>
+  <millis>1788821299869</millis>
+  <nanos>328000</nanos>
+  <sequence>0</sequence>
+  <logger>com.basic.inventorysystemfundamantal.service.PlaceOrderService</logger>
+  <level>INFO</level>
+  <class>com.basic.inventorysystemfundamantal.service.PlaceOrderService</class>
+  <method>orderPlace</method>
+  <thread>1</thread>
+  <message>Order successful: 1 x mobile | Remaining: 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-09-07T22:51:37.253904300Z</date>
+  <millis>1788821497253</millis>
+  <nanos>904300</nanos>
+  <sequence>0</sequence>
+  <logger>com.basic.inventorysystemfundamantal.service.PlaceOrderService</logger>
+  <level>INFO</level>
+  <class>com.basic.inventorysystemfundamantal.service.PlaceOrderService</class>
+  <method>orderPlace</method>
+  <thread>1</thread>
+  <message>Order successful: 1 x mobile | Remaining: 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-09-07T22:52:05.491132Z</date>
+  <millis>1788821525491</millis>
+  <nanos>132000</nanos>
+  <sequence>0</sequence>
+  <logger>com.basic.inventorysystemfundamantal.service.PlaceOrderService</logger>
+  <level>INFO</level>
+  <class>com.basic.inventorysystemfundamantal.service.PlaceOrderService</class>
+  <method>orderPlace</method>
+  <thread>1</thread>
+  <message>Order successful: 1 x mobile | Remaining: 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-09-07T22:52:43.529120500Z</date>
+  <millis>1788821563529</millis>
+  <nanos>120500</nanos>
+  <sequence>0</sequence>
+  <logger>com.basic.inventorysystemfundamantal.service.PlaceOrderService</logger>
+  <level>INFO</level>
+  <class>com.basic.inventorysystemfundamantal.service.PlaceOrderService</class>
+  <method>orderPlace</method>
+  <thread>1</thread>
+  <message>Order successful: 1 x mobile | Remaining: 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-09-07T22:53:21.826766400Z</date>
+  <millis>1788821601826</millis>
+  <nanos>766400</nanos>
+  <sequence>0</sequence>
+  <logger>com.basic.inventorysystemfundamantal.service.PlaceOrderService</logger>
+  <level>INFO</level>
+  <class>com.basic.inventorysystemfundamantal.service.PlaceOrderService</class>
+  <method>orderPlace</method>
+  <thread>1</thread>
+  <message>Order successful: 1 x mobile | Remaining: 1</message>
+</record>
+</log>
